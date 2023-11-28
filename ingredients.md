@@ -1,3 +1,4 @@
+Let's begin!
 Ingredients
 
 4  eggs
@@ -7,3 +8,4 @@ Ingredients
 0.50 tsp chicken bouillon
 1 tsp oil
 1 dash white pepper (to taste)
+Enjoy my recipe!
