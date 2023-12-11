@@ -14,3 +14,5 @@ last line changed locally
 - salt
 - green onions
 - soy sauce
+
+![steam egg](recipe.jpg "steam egg")
